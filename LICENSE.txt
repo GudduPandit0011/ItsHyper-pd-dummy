@@ -1,0 +1,5 @@
+Copyright (c) 2025 Desai Preet
+All rights reserved.
+
+This code is proprietary and confidential. Unauthorized copying, use, distribution, or modification is strictly prohibited.
+Only authorized users with written permission may use this codebase.
